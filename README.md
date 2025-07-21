@@ -3,11 +3,11 @@ This project involves building a machine learning model to accurately predict wh
 
  -The project involves the objectives below :
 * EDA
-Data processing (Missing Observation Analysis, Outlier Observation Analysis, Local Outlier Factor)
-Feature Engineering
-One hot Encoding
-Base Models
-Model Tuning
-Comparisons of final Models
-Reporting
+* Data processing (Missing Observation Analysis, Outlier Observation Analysis, Local Outlier Factor)
+* Feature Engineering
+* One hot Encoding
+* Base Models
+* Model Tuning
+* Comparisons of final Models
+* Reporting
 
